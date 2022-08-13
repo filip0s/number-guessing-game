@@ -59,6 +59,7 @@ func (g *Game) decideWinner() {
 	}
 
 	fmt.Println(decision)
+	fmt.Printf("The number was %d.\n", g.generatedNumber)
 }
 
 func (g *Game) run() {
