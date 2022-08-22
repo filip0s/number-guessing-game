@@ -16,7 +16,7 @@ Game was built with Go version 1.18.
 
 ### Downloading & running
 ```shell
-git@github.com:filip0s/number-guessing-game.git
+git clone git@github.com:filip0s/number-guessing-game.git
 cd number-guessing-game/
 go run .
 ```
